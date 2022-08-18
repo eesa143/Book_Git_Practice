@@ -1,2 +1,4 @@
 
 Page 2 is created successfully
+
+page 2 had error and was edited
